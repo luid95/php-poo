@@ -7,11 +7,11 @@ git push -u origin master
 
 
 --= QUE ES Y COMO SE DECLARA =--
-[] Clases con php 
-[] Metodos y atributos con php 
-[] Objetos con php
-[] Retorno de datos(int, string, arrays, json)
-[] Calculadora con POO en php
+[X] Clases con php 
+[X] Metodos y atributos con php 
+[X] Objetos con php
+[X] Retorno de datos(int, string, arrays, json)
+[X] Calculadora con POO en php
 [] Propiedad de self para llamar metodos en otros metodos de la misma Clases
 [] Herencia con php POO
 [] Llamar metodos heredados propiedad parent 
