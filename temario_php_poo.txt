@@ -12,9 +12,9 @@ git push -u origin master
 [X] Objetos con php
 [X] Retorno de datos(int, string, arrays, json)
 [X] Calculadora con POO en php
-[] Propiedad de self para llamar metodos en otros metodos de la misma Clases
-[] Herencia con php POO
-[] Llamar metodos heredados propiedad parent 
+[X] Propiedad de self para llamar metodos en otros metodos de la misma Clases
+[X] Herencia con php POO
+[X] Llamar metodos heredados propiedad parent 
 [] Metodos privados 
 [] Metodos protegidos
 [] Metodos estaticos
