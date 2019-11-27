@@ -15,11 +15,11 @@ git push -u origin master
 [X] Propiedad de self para llamar metodos en otros metodos de la misma Clases
 [X] Herencia con php POO
 [X] Llamar metodos heredados propiedad parent 
-[] Metodos privados 
-[] Metodos protegidos
-[] Metodos estaticos
-[] Conexion con BD con POO y Mysql
-[] CRUD con php POO y Mysql (mostrar datos)
-[] CRUD con php POO y Mysql (insertar datos)
-[] CRUD con php POO y Mysql (actualizar datos)
-[] CRUD con php POO y Mysql (eliminar datos)
+[X] Metodos privados 
+[X] Metodos protegidos
+[X] Metodos estaticos
+[X] Conexion con BD con POO y Mysql
+[X] CRUD con php POO y Mysql (mostrar datos)
+[X] CRUD con php POO y Mysql (insertar datos)
+[X] CRUD con php POO y Mysql (actualizar datos)
+[X] CRUD con php POO y Mysql (eliminar datos)
